@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Card from "./Card";
 let base_url = "https://api.themoviedb.org/3";
-let API_key = "?api_key=04be4216dd3746e2a99b95902b2f5950";
+let API_key = "USE YOUR API KEY HERE;
 let arr = ["Popular", "Theatre", "Kids", "Drama", "Comedie"];
 
 const Main = () => {
